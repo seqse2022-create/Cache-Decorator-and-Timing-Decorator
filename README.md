@@ -50,7 +50,7 @@ slow_add(1, 2)   # 缓存过期，重新计算
 ## 运行测试
 
 ```bash
-python test_decorators.py
+python -m pytest
 ```
 
 预期输出：
@@ -70,4 +70,4 @@ python test_decorators.py
 
 ## 作者
 
-GitHub: [cu]
+GitHub: [https://github.com/seqse2022-create]
