@@ -70,4 +70,4 @@ python -m pytest
 
 ## 作者
 
-GitHub: [https://github.com/seqse2022-create]
+[cu](https://github.com/seqse2022-create)
